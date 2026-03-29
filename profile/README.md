@@ -15,11 +15,11 @@ Our objective is to deliver reliable, standards-aligned building blocks that can
 - CCSDS SpacePacket protocol implementation in C
 - CCSDS SpaceWire protocol implementation in C
 - CCSDS TC/TM SDLP protocol implementation in C
+- Desktop EGSE (Electrical Ground Support Equipment) for TC transmission, TM reception, monitoring, and operational control on ground
 
 ## Planned / in progress
 
 - ECSS-E-ST-70-41C Telemetry and Telecommand Packet Utilisation Standard (TM/TC PUS)
-- Desktop EGSE (Electrical Ground Support Equipment) for TC transmission, TM reception, monitoring, and operational control on ground
 
 ## Contribution
 
