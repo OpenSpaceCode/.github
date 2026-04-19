@@ -20,6 +20,9 @@ Our objective is to deliver reliable, standards-aligned building blocks that can
 ## Planned / in progress
 
 - ECSS-E-ST-70-41C Telemetry and Telecommand Packet Utilisation Standard (TM/TC PUS)
+- OBC framework (mini flight software)
+- FDIR (Fault Detection, Isolation and Recovery)
+- Time system (CCSDS CUC / CDS time)
 
 ## Contribution
 
