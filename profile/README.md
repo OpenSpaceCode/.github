@@ -20,6 +20,8 @@ Our objective is to deliver reliable, standards-aligned building blocks that can
 ## Planned / in progress
 
 - ECSS-E-ST-70-41C Telemetry and Telecommand Packet Utilisation Standard (TM/TC PUS)
+- CCSDS File Delivery Protocol (CFDP)
+- Python terminal with CCSDS protocols support for rapid development & debugging
 - OBC framework (mini flight software)
 - FDIR (Fault Detection, Isolation and Recovery)
 - Time system (CCSDS CUC / CDS time)
