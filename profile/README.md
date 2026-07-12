@@ -10,16 +10,16 @@ Our objective is to deliver reliable, standards-aligned building blocks that can
 - Provide understandable, extensible baseline solutions for mission-specific adaptation
 - Support education-oriented use with engineering-grade quality expectations
 
-## Current implementations (ready to use)
+## Released libraries
 
 - CCSDS SpacePacket protocol implementation in C
 - CCSDS SpaceWire protocol implementation in C
 - CCSDS TC/TM SDLP protocol implementation in C
+- ECSS-E-ST-70-41C Telemetry and Telecommand Packet Utilisation Standard (TM/TC PUS)
 - Desktop EGSE (Electrical Ground Support Equipment) for TC transmission, TM reception, monitoring, and operational control on ground
 
 ## Planned / in progress
 
-- ECSS-E-ST-70-41C Telemetry and Telecommand Packet Utilisation Standard (TM/TC PUS)
 - CCSDS File Delivery Protocol (CFDP)
 - Python terminal with CCSDS protocols support for rapid development & debugging
 - OBC framework (mini flight software)
