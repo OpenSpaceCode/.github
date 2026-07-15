@@ -1,6 +1,6 @@
 # OpenSpaceCode
 
-OpenSpaceCode is an engineering-focused colaborative initiative for developing reusable software components and reference implementations for small-scale space applications.
+OpenSpaceCode is an engineering-focused colaborative initiative for developing reusable software components and reference implementations for small-scale (academic) space applications.
 
 Our objective is to deliver reliable, standards-aligned building blocks that can be adopted by students, student organizations, and technical teams for educational purposes and mission development activities.
 
