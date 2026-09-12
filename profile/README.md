@@ -17,6 +17,7 @@ Our objective is to deliver reliable, standards-aligned building blocks that can
 - CCSDS TC/TM SDLP protocol implementation in C
 - ECSS-E-ST-70-41C Telemetry and Telecommand Packet Utilisation Standard (TM/TC PUS)
 - Desktop EGSE (Electrical Ground Support Equipment) for TC transmission, TM reception, monitoring, and operational control on ground
+- Time system (CCSDS CUC / CDS time)
 
 ## Planned / in progress
 
@@ -24,7 +25,6 @@ Our objective is to deliver reliable, standards-aligned building blocks that can
 - Python terminal with CCSDS protocols support for rapid development & debugging
 - OBC framework (mini flight software)
 - FDIR (Fault Detection, Isolation and Recovery)
-- Time system (CCSDS CUC / CDS time)
 
 ## Contribution
 
