@@ -12,6 +12,7 @@ Our objective is to deliver reliable, standards-aligned building blocks that can
 
 ## Released libraries
 
+- CCSDS Viewer - helper tool for working with CCSDS protocols (https://openspacecode.github.io/CCSDS-Viewer/)
 - CCSDS SpacePacket protocol implementation in C
 - CCSDS SpaceWire protocol implementation in C
 - CCSDS TC/TM SDLP protocol implementation in C
@@ -23,7 +24,6 @@ Our objective is to deliver reliable, standards-aligned building blocks that can
 ## Planned / in progress
 
 - Python terminal with CCSDS protocols support for rapid development & debugging
-- OBC framework (mini flight software)
 - FDIR (Fault Detection, Isolation and Recovery)
 
 ## Contribution
